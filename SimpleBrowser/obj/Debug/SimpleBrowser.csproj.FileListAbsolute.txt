@@ -1,0 +1,9 @@
+C:\Studies\SimpleBrowser\SimpleBrowser\bin\Debug\SimpleBrowser.exe.config
+C:\Studies\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.csprojResolveAssemblyReference.cache
+C:\Studies\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.Form1.resources
+C:\Studies\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.Properties.Resources.resources
+C:\Studies\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.csproj.GenerateResource.Cache
+C:\Studies\SimpleBrowser\SimpleBrowser\bin\Debug\SimpleBrowser.exe
+C:\Studies\SimpleBrowser\SimpleBrowser\bin\Debug\SimpleBrowser.pdb
+C:\Studies\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.exe
+C:\Studies\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.pdb
